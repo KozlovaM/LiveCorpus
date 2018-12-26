@@ -1,0 +1,176 @@
+nag@
+
+# sent_id = 13
+# text = а как мама с папой познакомились очень интересно кстати / моя
+1	а	а	INTJ	_	_	_	_	_	_
+2	как	как	SCONJ	_	_	_	_	_	_
+3	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+4	с	с	ADP	_	_	_	_	_	_
+5	папой	папа	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+6	познакомились	познакомиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+7	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+8	интересно	интересно	ADV	_	Degree=Pos	_	_	_	_
+9	кстати	кстати	ADV	_	Degree=Pos	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+nag@
+
+# sent_id = 15
+# text = вот как раз / сестры / э / дети / этого деда вот этого легендарного / они дружили между собой / и / родные / и двоюродные / и троюродные / и мы до сих пор дружим по этой линии / и
+1	вот	вот	ADV	_	_	_	_	_	_
+2	как	как	SCONJ	_	_	_	_	_	_
+3	раз	раз	PART	_	_	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	сестры	сестра	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	э	э	INTJ	_	_	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+12	деда	дед	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+13	вот	вот	PART	_	_	_	_	_	_
+14	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+15	легендарного	легендарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+18	дружили	дружить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+19	между	между	ADP	_	_	_	_	_	_
+20	собой	себя	PRON	_	Case=Ins	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	и	и	CCONJ	_	_	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	родные	родной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	и	и	CCONJ	_	_	_	_	_	_
+27	двоюродные	двоюродный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+28	/	/	PUNCT	_	_	_	_	_	_
+29	и	и	CCONJ	_	_	_	_	_	_
+30	троюродные	троюродный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+31	/	/	PUNCT	_	_	_	_	_	_
+32	и	и	CCONJ	_	_	_	_	_	_
+33	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+34	до	до	ADP	_	_	_	_	_	_
+35	сих	сей	DET	_	Case=Gen|Number=Plur|Number=Plur	_	_	_	_
+36	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+37	дружим	дружить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+38	по	по	ADP	_	_	_	_	_	_
+39	этой	этот	DET	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+40	линии	линия	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+41	/	/	PUNCT	_	_	_	_	_	_
+42	и	и	CCONJ	_	_	_	_	_	SpacesAfter=\n\n
+
+nag@
+
+# sent_id = 17
+# text = одна из ветв...
+1	одна	один	NUM	_	Case=Nom|Gender=Fem	_	_	_	_
+2	из	из	ADP	_	_	_	_	_	_
+3	ветв	ветвь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+nag@
+
+# sent_id = 19
+# text = веток этого рода / как раз они были ветеринары / и преподавали в ветеринарной / ветеринарном училище / ээ / около смоленска какой-то городок / я уже сейчас [нрзб] / вот и
+1	веток	ветка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+2	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+3	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	как	как	SCONJ	_	_	_	_	_	_
+6	раз	раз	!PART	_	_	_	_	_	_
+7	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+8	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	ветеринары	ветеринар	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	и	и	CCONJ	_	_	_	_	_	_
+12	преподавали	преподавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	в	в	ADP	_	_	_	_	_	_
+14	ветеринарной	ветеринарный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	ветеринарном	ветеринарный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+17	училище	училище	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	ээ	ээ	INTJ	_	_	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	около	около	ADP	_	_	_	_	_	_
+22	смоленска	смоленск	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+23	какой-то	какой-то	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+24	городок	городок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+27	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+28	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+29	[нрзб]	[нрзб]	X	_	_	_	_	_	SpaceAfter=No
+30	/	/	PUNCT	_	_	_	_	_	_
+31	вот	вот	PART	_	_	_	_	_	_
+32	и	и	!PART	_	_	_	_	_	SpacesAfter=\n\n
+
+nag@
+
+# sent_id = 21
+# text = папа мой приезжал к ним гостить летом / и / так как они были завучами вот этой / этого кол...
+1	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	приезжал	приезжать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	к	к	ADP	_	_	_	_	_	_
+5	ним	они	PRON	_	Case=Dat|Number=Plur|Person=3	_	_	_	_
+6	гостить	гостить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+7	летом	лето	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	и	и	CCONJ	_	_	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	так	так	ADV	_	Degree=Pos	_	_	_	_
+12	как	как	SCONJ	_	_	_	_	_	_
+13	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+14	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	завучами	завуч	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
+16	вот	вот	PART	_	_	_	_	_	_
+17	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	этого	это	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+20	кол.	колледж	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+nag@
+
+# sent_id = 23
+# text = училища / в котором / ну / готовили ветеринаров / а моя мама там как раз училась / он пришел на дискотеку / и вроде бы как / говорил / что он приметил себе симпатичную блондинку / но тут подбежала моя мама / брюнетка она как раз / ну вот / ну и / в общем / отбила его у блондинки / вот
+1	училища	училище	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	в	в	ADP	_	_	_	_	_	_
+4	котором	который	DET	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	ну	ну	INTJ	_	_	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	готовили	готовить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	ветеринаров	ветеринар	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	а	а	CCONJ	_	_	_	_	_	_
+12	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+13	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+14	там	там	ADV	_	Degree=Pos	_	_	_	_
+15	как	как	SCONJ	_	_	_	_	_	_
+16	раз	раз	!PART	_	_	_	_	_   _
+17	училась	учиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+20	пришел	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+21	на	на	ADP	_	_	_	_	_	_
+22	дискотеку	дискотека	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	и	и	CCONJ	_	_	_	_	_	_
+25	вроде	PART	_	_	_	_	_   _
+26	бы	бы	PART	_	_	_	_	_	_
+27	как	как	!PART	_	_	_	_	_   _
+28	/	/	PUNCT	_	_	_	_	_	_
+29	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+30	/	/	PUNCT	_	_	_	_	_	_
+31	что	что	SCONJ	_	_	_	_	_	_
+32	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+33	приметил	приметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+34	себе	себя	PRON	_	Case=Dat	
